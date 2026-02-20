@@ -36,3 +36,9 @@ Outputs (checkpoints + tokenizer) land in `--output_dir`. You can inspect logs i
 - To use Apple Silicon GPUs, set `PYTORCH_ENABLE_MPS_FALLBACK=1` if kernels fall back to CPU.
 - Add `--fp16` on CUDA machines or `--bf16` on BF16-capable GPUs for speed.
 - Replace the dataset with your own by pointing to a local JSON/text file via `datasets` (see their docs) and set `--text_field` accordingly.
+
+
+## Runing steps
+#MAC OS
+#Windows
+#Linux
